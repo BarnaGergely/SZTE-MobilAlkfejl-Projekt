@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fallCode</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="passworld">Jelszó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="email">Email</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="options">Beállítások</string>
+</resources>

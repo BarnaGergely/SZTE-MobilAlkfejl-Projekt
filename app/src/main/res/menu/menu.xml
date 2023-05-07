@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navLogin"
+        android:title="@string/login"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/navRegister"
+        android:title="@string/register"
+        app:showAsAction="never" />
+    <item
+        android:icon="@android:drawable/ic_menu_manage"
+        android:id="@+id/navSettings"
+        android:title="Értesítések bekapcsolása"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/navLogout"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+</menu>
